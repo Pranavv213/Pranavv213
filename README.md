@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
-<h3 align="center">👩‍💻 Full Stack Development || Content Creater ✍️ ||Community Manager@CodeIN 🌐||GSSoC Contributor||Google Crowdsource Contributor || Internshala Student Partner ||Campus Ambassador@ Devtown ||singer 🎤 ||🤠 hustler|| YouTuber 🎥</h3>
+<h3 align="center">👩‍💻 Full Stack Development || Content Creater ✍️ ||Community Manager@CodeIN 🌐||GSSoC Contributor||Google Crowdsource Contributor|| POSTMAN STUDENT EXPERT ||Ninja Entrepreneur@Coding Ninjas|| Internshala Student Partner ||Campus Ambassador@ Devtown ||singer 🎤 ||🤠 hustler|| YouTuber 🎥</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Tenserflow**
 
