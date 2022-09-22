@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
-<h3 align="center">Google DSC lead' 22|| 🎥 Content Creator||👨‍💻 MERN stack||💎Web 3.0||Community Manager@CodeIN ||GSSOC '22||Google Crowdsource Contributor (11k+ contributions) ||Student Expert @Postman|| 🤠hustler</h3>
+<h3 align="center">Google DSC lead' 22|| 🎥 Content Creator||💎Web 3.0||👨‍💻 MERN stack||Community Manager@CodeIN ||Public Speaker🎤||GSSOC '22||Google Crowdsource Contributor (11k+ contributions) ||Student Expert @Postman|| 🤠hustler</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Tenserflow**
+- 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
+- 😍I'm obsessed with Web3 🔥
+- ✍️Passionate about Content Creation
 
 - 📝 I regularly write articles on [https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0](https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0)
 
