@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
-<h3 align="center">Google DSC lead' 22|| 🎥 Content Creator||💎Web 3.0||👨‍💻 MERN stack||Community Manager@CodeIN ||Public Speaker🎤||GSSOC '22||Google Crowdsource Contributor (11k+ contributions) ||Student Expert @Postman|| 🤠hustler</h3>
+<h3 align="center">Google DSC lead' 22|| 🎥 Content Creator||💎Web 3.0 Developer||👨‍💻 MERN stack Developer||Community Manager@CodeIN ||Public Speaker🎤||GSSOC '22||Google Crowdsource Contributor (11k+ contributions) ||Student Expert @Postman|| 🤠hustler</h3>
 
 - 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
 - 😍I'm obsessed with Web3 🔥
