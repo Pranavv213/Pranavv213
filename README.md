@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm <a href="http://www,.linkedin.com/in/pranav-verma-0537b1214/" target="_blank">Pranav Verma</a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6984393903416242176" height="990" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Google DSC Lead </b>, <b> Founder DevGram Community </b>, <b>Google Crowdsource Contributor and Influencer </b>, Student Expert at Postman ,<b> Content Creator </b>
 <h3 align="center"> Passionate Web 3 Developer | Content Creator </h3>
 
@@ -10,7 +10,7 @@ I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Googl
 
 - 📝 I regularly write articles on https://www.linkedin.com/posts/pranav-verma-0537b1214_simple-steps-activity-6984393904422891520-VJHC?utm_source=share&utm_medium=member_desktop
 - 😍 My favourite articles:-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6984393903416242176" height="990" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 - 📫 How to reach me **quantumworld394@gmail.com**
 
