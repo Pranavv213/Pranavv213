@@ -29,7 +29,7 @@ Other Skills: Content Creation, Open Source, Community Management, DevRel, Video
 
 </p>
 
-Learning with Building is something which I love doing !! 
+Learning with Building is something which I love doing !! Some of my favouraite projects are :-
 
 <h1 align="center">Projects</h1>
 
@@ -38,13 +38,11 @@ Learning with Building is something which I love doing !!
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [CryptoPe](https://github.com/Pranavv213/CryptoPe)     | Crypto Payments can be done by scanning a QR Code . 
+| [Web 3 Book Store](https://github.com/Pranavv213/Web3BookStore/)   | E-Books can be purcahsed using cryptos 
+| [Web 3 Version of Netflix](https://github.com/Pranavv213/Netflix-Web3-Clone)     | Web 3 Version of Netflix
+| [News App](https://github.com/Pranavv213/News-App-using-RapidApi-Redux-Firebase)     | Display the latest news based on the caterogory selected or search results
+| [Stock Analytics](https://github.com/Pranavv213?tab=repositories)     | Get the analytics of the stocks based upon search results
 
  <h1 align="center">Let's Get Connected</h1>
 
