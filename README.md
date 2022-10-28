@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm <a href="http://www,.linkedin.com/in/pranav-verma-0537b1214/" target="_blank">Pranav Verma</a></h1>
-<img width="20%" align="right"   src="https://global-uploads.webflow.com/61ba6468fead2e0eab9d8ca1/61d271805891fdb648492dbc_6f561fee-5bfa-4ddd-80f5-73ae8741442a.gif" >
+<img width="35%" align="right"   src="https://global-uploads.webflow.com/61ba6468fead2e0eab9d8ca1/61d271805891fdb648492dbc_6f561fee-5bfa-4ddd-80f5-73ae8741442a.gif" >
 I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Google DSC Lead </b>, <b> Founder DevGram Community </b>, <b>Google Crowdsource Contributor and Influencer </b>, Student Expert at Postman ,<b> Content Creator </b>
 <h3 align="center"> Passionate Web 3 Developer | Content Creator </h3>
 
