@@ -2,7 +2,7 @@
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <img  style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQXxGAfRo&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://firebasestorage.googleapis.com/v0/b/web3-camera.appspot.com/o/Black%20Technology%20LinkedIn%20Banner%20(1).png?alt=media&token=37a1d840-1886-4152-884b-25eb7fc33525" allowfullscreen="allowfullscreen" allow="fullscreen">
   </img>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQXxGAfRo&#x2F;view?utm_content=DAFQXxGAfRo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a> by Pranav Verma
