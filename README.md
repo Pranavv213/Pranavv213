@@ -4,6 +4,18 @@
 I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Google DSC Lead </b>, <b> Founder DevGram Community </b>, <b>Google Crowdsource Contributor and Influencer </b>, Student Expert at Postman ,<b> Content Creator </b>
 <h3 align="center"> Passionate Web 3 Developer | Content Creator </h3>
 
+- 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
+- 😍I'm obsessed with Web3 🔥
+- ✍️Passionate about Content Creation
+
+- 📝 I regularly write articles on [https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0](https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0)
+
+- 📫 How to reach me **quantumworld394@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1goeYJYMsTd22uLcleuGh5S6VJ-tqW6-w/view?usp=sharing](https://drive.google.com/file/d/19jMu7KOiJFLYCWLMncRaX83kn3FwATnO/view?usp=sharing)
+
+- ⚡ Fun fact **I love ❤ watching Anime 😍 || I used to be a fat boy then I stopped eating PIZZA. Now I just eat my 👩‍💻 code 😋**
+
 
    <div align="center">
 
@@ -52,20 +64,8 @@ Learning with Building is something which I love doing !!
    
 </div>
   
-<h1 align="center">Hi 👋, I'm Pranav Verma</h1>
-<h3 align="center">Google DSC lead' 22|| 🎥 Content Creator||💎Web 3.0 Developer||👨‍💻 MERN stack Developer||Community Manager@CodeIN ||Public Speaker🎤||GSSOC '22||Google Crowdsource Contributor (11k+ contributions) ||Student Expert @Postman|| 🤠hustler</h3>
 
-- 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
-- 😍I'm obsessed with Web3 🔥
-- ✍️Passionate about Content Creation
 
-- 📝 I regularly write articles on [https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0](https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0)
-
-- 📫 How to reach me **quantumworld394@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1goeYJYMsTd22uLcleuGh5S6VJ-tqW6-w/view?usp=sharing](https://drive.google.com/file/d/19jMu7KOiJFLYCWLMncRaX83kn3FwATnO/view?usp=sharing)
-
-- ⚡ Fun fact **I love ❤ watching Anime 😍 || I used to be a fat boy then I stopped eating PIZZA. Now I just eat my 👩‍💻 code 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
