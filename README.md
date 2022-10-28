@@ -8,7 +8,9 @@ I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Googl
 - 😍I'm obsessed with Web3 🔥
 - ✍️Passionate about Content Creation
 
-- 📝 I regularly write articles on [https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0](https://www.linkedin.com/posts/pranav-verma-0537b1214_coding-hardworkpaysoff-coder-activity-6892413822318075904-kg-0)
+- 📝 I regularly write articles on https://www.linkedin.com/posts/pranav-verma-0537b1214_simple-steps-activity-6984393904422891520-VJHC?utm_source=share&utm_medium=member_desktop
+- 😍 My favourite articles:-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6984393903416242176" height="990" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 - 📫 How to reach me **quantumworld394@gmail.com**
 
