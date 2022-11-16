@@ -19,7 +19,7 @@ I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Googl
 
 - 📫 How to reach me **quantumworld394@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1goeYJYMsTd22uLcleuGh5S6VJ-tqW6-w/view?usp=sharing](https://drive.google.com/file/d/19jMu7KOiJFLYCWLMncRaX83kn3FwATnO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1goeYJYMsTd22uLcleuGh5S6VJ-tqW6-w/view?usp=sharing](https://docs.google.com/document/d/1aO6sZb5-Z3kwJjJkkilKtspfzEZw5nBsH7WS-Mm7PAM/edit?usp=sharing)
 
 - ⚡ Fun fact **I love ❤ watching Anime 😍 || I used to be a fat boy then I stopped eating PIZZA. Now I just eat my 👩‍💻 code 😋**
 
