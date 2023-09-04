@@ -8,19 +8,18 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQXxGAfRo&#x2F;view?utm_content=DAFQXxGAfRo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Technology LinkedIn Banner</a> by Pranav Verma
 <h1 align="center" >Hi, I'm <a href="http://www,.linkedin.com/in/pranav-verma-0537b1214/" target="_blank">Pranav Verma</a></h1>
 <img width="20%" align="right"   src="https://global-uploads.webflow.com/61ba6468fead2e0eab9d8ca1/61d271805891fdb648492dbc_6f561fee-5bfa-4ddd-80f5-73ae8741442a.gif" >
-I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Google DSC Lead </b>, <b> Founder DevGram Community </b>, <b>Google Crowdsource Contributor and Influencer </b>, Student Expert at Postman ,<b> Content Creator </b>
+I am <b>Pranav Verma</b> Developer Relations at Router Protocol, an Ex- <b> Google DSC Lead </b>, <b> Founder ConnectVerse Community </b>, <b>Google Crowdsource Contributor and Influencer </b>, Student Expert at Postman ,<b> Content Creator </b>
 <h3 align="center"> Passionate Web 3 Developer | Content Creator </h3>
 
 - 🌱 I’m in ♥️ with **ReactJS, Firebase, Moralis**
-- 😍I'm obsessed with Web3 🔥
+- 😍I'm obsessed with Web3 & Blockchain 🔥
 - ✍️Passionate about Content Creation
 
 - 📝 I regularly write articles on https://www.linkedin.com/posts/pranav-verma-0537b1214_simple-steps-activity-6984393904422891520-VJHC?utm_source=share&utm_medium=member_desktop
 
 - 📫 How to reach me **quantumworld394@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1goeYJYMsTd22uLcleuGh5S6VJ-tqW6-w/view?usp=sharing](https://docs.google.com/document/d/1aO6sZb5-Z3kwJjJkkilKtspfzEZw5nBsH7WS-Mm7PAM/edit?usp=sharing)
-
+- 📄 Know about my 
 - ⚡ Fun fact **I love ❤ watching Anime 😍 || I used to be a fat boy then I stopped eating PIZZA. Now I just eat my 👩‍💻 code 😋**
 
 
@@ -28,7 +27,8 @@ I am <b>Pranav Verma</b> pursuing my Batchelors in Computer Science, a <b> Googl
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned Full Stack Web 2-development and having knowledge of HTML,CSS & Javascript, ReactJs ,Redux JS, Firebase, Node JS, Express JS, Mongo Db and exploring web 3 development having knowlege of Solidity , Moralis, Defi, etc with a basics of Data Structures and Algorithms .
+I have learned Full Stack Web 2 & Web 3-development and having knowledge of HTML,CSS & Javascript, ReactJs ,Redux JS, Firebase, Node JS, Express JS, Mongo Db and 
+Solidity , Moralis, Defi, etc with a basics of Data Structures and Algorithms .
 Other Skills: Content Creation, Open Source, Community Management, DevRel, Video Editing, C ,C++,JAVA, Canva, Singing, Lyrics Writing, Story Telling, Entrepreneurship, Public Speaking, etc
 
 <p align="center"> 
